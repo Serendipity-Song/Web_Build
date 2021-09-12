@@ -1,0 +1,16 @@
+a {
+  color:black;
+  text-decoration: none;
+}
+/*
+id 선택자>>class 선택자>>태그 선택자 이긴다 */
+#active{
+  color:red;
+}
+.saw{
+  color:gray;
+}
+
+h1{
+  font-size:45px;text-align: center;
+}
